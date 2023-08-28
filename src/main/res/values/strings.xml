@@ -1,0 +1,7 @@
+<resources>
+    <string name="size">14dp</string>
+    <string name="app_name">weatherObserver</string>
+    <string name="page">1-ая страница</string>
+    <string name="next">Далее</string>
+    <string name="prev">Назад</string>
+</resources>
